@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @WatchClockk
+- 👀 I’m interested in learning new code
+- 🌱 I’m currently learning how to build websites over the summer.
